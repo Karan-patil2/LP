@@ -7,7 +7,6 @@ public class Calculator extends Frame implements ActionListener{
     Button sub = new Button("SUB");  
     Button mul = new Button("MUL");  
     Button div = new Button("DIV");  
-    Button clear = new Button("CLEAR");  
     Button result = new Button("RESULT");  
     static int n1,n2,n3;
     int flag;
